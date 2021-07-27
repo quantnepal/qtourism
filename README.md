@@ -1,4 +1,4 @@
-## Quantum Tourism (nepaldata.io)
+## Quantum Tourism
 Creation of Graph-database of tourism data and implementation of Machine Learning, AI, and Quantum Computing Algorithms in complex network and graph data.
 
 ![](network.jpg)
