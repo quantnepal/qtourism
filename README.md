@@ -1,6 +1,8 @@
 ## Quantum Tourism (nepaldata.io)
 Creation of Graph-database of tourism data and implementation of Machine Learning, AI, and Quantum Computing Algorithms in complex network and graph data.
 
+![](network.jpg)
+
 ### Data Sources:
 A sample experimental data includes the (1) geographical location of the tourist spots, hotels, restaurants, trekking sites, temples, hotels, museums, etc as nodes(properties) (2) travel cost from node A to node B, types of travel methods as edge (characteristics) data (3) Travellers are random migrators from node to node.
 
